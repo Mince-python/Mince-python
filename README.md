@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**Mince-python/Mince-python** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I’m Taofeeq (p.k.a Al iman)
+👨🏼‍💻 A curious apprentice on a continuous learning journey
+🎯 Focused on building clean, maintainable, and scalable web applications
+💻 Continuously honing my skills in modern technologies
+🌱 Currently diving deeper into Javascript and Frontend technologies
+🌐 Excited about the potential of Web 3.0, Blockchain, and decentralized applications
+👨‍🔬 Experimenting with serverless architecture and edge computing to optimize web performance
+🫠 Aware of 'There is no one solution, but always a better one...'
+📚 Constantly learning and eager to collaborate on interesting projects
+📫 Reach me anytime by X link in Profile
 
-Here are some ideas to get you started:
+## Interest
+👨‍💻Coding
+⚽Football
+🥊Boxing
+🚴Cycling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Thank You For Checking!!🥂👏
+🏗 Let's build something amazing together! Feel free to get in touch.
