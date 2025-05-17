@@ -1,4 +1,4 @@
-# Bonjour Taofeeq! 👋
+# Bonjour Taofeeq! 👋👨‍💻
 
 👋 Hi, I’m Taofeeq (Hackustaz)
 👨🏼‍💻 A curious apprentice on a continuous learning journey, majoring in Web development, and I aim to specialize in Backend development, and hope to progress to front-end development and finally to full-stack development
